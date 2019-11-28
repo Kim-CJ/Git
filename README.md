@@ -1,2 +1,3 @@
 # Git 명령어 정리
-This repository is used for studying Git.
+- git init  
+현재 디렉토리를 git으로 관리하기위한 초기화 명령어. 숨김폴더로 .git 폴더가 생성된다.
